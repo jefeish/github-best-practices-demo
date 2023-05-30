@@ -9,39 +9,49 @@
 
 	<link rel="stylesheet" href="reveal/dist/reset.css">
 	<link rel="stylesheet" href="reveal/dist/reveal.css">
-	<link rel="stylesheet" href="reveal/dist/theme/standard.css">
+	<link rel="stylesheet" href="reveal/dist/theme/moon.css">
 
 	<!-- Theme used for syntax highlighted code -->
-	<link rel="stylesheet" href="reveal/plugin/highlight/monokai.css">
+	<link rel="stylesheet" href="reveal/plugin/highlight/night.css">
 </head>
 
 <body>
 	<div class="reveal">
 		<div class="slides">
 			<section data-background="images/github-bg-2.png" data-background-repeat="repeat" data-markdown="slides/intro1.md">Slide 1</section>
-			<section data-background="images/backgrounds/mountain-grey.png" data-background-repeat="repeat" data-markdown="slides/intro4.md">Slide 2</section>
-			<section data-background="images/backgrounds/mountain-red.png" data-background-repeat="repeat" data-markdown="slides/intro5.md">Slide 2</section>
-			<section data-background="images/backgrounds/cover11.png" data-background-repeat="repeat" data-markdown="slides/intro6.md">Slide 2</section>
-			<section data-background="images/backgrounds/split-black-white.png" data-background-repeat="repeat" data-markdown="slides/intro7.md">Slide 2</section>
+			<section data-markdown="slides/content.md">Slide 1</section>
 			<section>
-				<section data-background="images/backgrounds/bg-darkblue.png" data-background-repeat="repeat" data-markdown="slides/slide-sample-1.md">Slide 3</section>
-				<section data-background="images/backgrounds/github-background-white-cat1.png" data-background-repeat="repeat" data-markdown="slides/slide-sample-2.md">Slide 4</section>
+				<section data-markdown="slides/branch-strategy.md">Slide 2</section>
+				<section data-markdown="slides/branch-strategy-git-flow.md">Slide 3</section>
+				<section data-markdown="slides/branch-strategy-trunk-based.md">Slide 4</section>
 			</section>
-			<section data-background="images/backgrounds/bg-almostblack.png" data-background-repeat="repeat" data-markdown="slides/quote.md">Slide 6</section>
-			<section data-background="images/backgrounds/bg-green.png" data-background-repeat="repeat" data-markdown="slides/quote.md">Slide 6</section>
-			<section data-background="images/backgrounds/bg-lightbrown.png" data-background-repeat="repeat" data-markdown="slides/quote.md">Slide 6</section>
-			<section data-background="images/backgrounds/lightgrey.png" data-background-repeat="repeat" data-markdown="slides/quote-black.md">Slide 6</section>
-			<section data-background="images/backgrounds/split-darkgrey-white.png" data-background-repeat="repeat" data-markdown="slides/text-picture-columns-bw.md">Slide 6</section>
-			<section data-background="images/backgrounds/split-darkblue2.png" data-background-repeat="repeat" data-markdown="slides/text-picture-columns.md">Slide 6</section>
-			<section data-background="images/backgrounds/split-lightgrey-white.png" data-background-repeat="repeat" data-markdown="slides/text-picture-columns-bw2.md">Slide 6</section>
-			<section data-markdown="slides/text-picture-columns2.md">Slide 6</section>
-			<section data-markdown="slides/slide-sample-innersource.md">Slide 6</section>
-			<section data-background="images/backgrounds/bg-darkblue.png" data-background-repeat="repeat" data-markdown="slides/slide-sample-innersource.md">Slide 6</section>
-			<section data-background="images/backgrounds/bg-darkblue.png" data-background-repeat="repeat" data-markdown="slides/two-columns.md">Slide 10</section>
-			<section data-background="images/backgrounds/bg-darkblue.png" data-background-repeat="repeat" data-markdown="slides/three-columns.md">Slide 7</section>
-			<section data-background="images/backgrounds/bg-darkblue.png" data-background-repeat="repeat" data-markdown="slides/text-picture-columns2.md">Slide 6</section>
-			<section data-background="images/backgrounds/bg-darkblue.png" data-background-repeat="repeat" data-markdown="slides/col-picture.md">Slide 9</section>
-			<section data-background="images/backgrounds/github-background-rainbow-black.png" data-background-repeat="repeat"><h1 style="color: rgb(150, 180, 255);">THE END</h1></section>
+			<section data-markdown="slides/templates-policies.md">Slide 5</section>
+			<section>
+				<section data-markdown="slides/tp-repo-issue-pr-templates.md">Slide 5</section>
+			</section>
+			<section data-markdown="slides/tp-repo-policies.md">Slide 6</section>
+			<section data-markdown="slides/tp-auto-links.md">Slide 7</section>
+			<section>
+				<section data-markdown="slides/tp-special-files.md">Slide 6</section>
+			</section>
+
+			<section data-markdown="slides/repo-best-practice.md">Slide 8</section>
+			<section data-markdown="slides/rbp-security.md">Slide 9</section>
+			<section data-markdown="slides/rbp-compliance.md">Slide 10</section>
+			<section>
+				<section data-markdown="slides/rbp-protection.md">Slide 12</section>
+				<section data-markdown="slides/repo-size-limits.md">Slide 12</section>
+			</section>
+			<section>
+				<section data-markdown="slides/rbp-collaboration.md">Slide 11</section>
+				<section data-markdown="slides/links.md">Slide 12</section>
+			</section>
+
+			<section data-background="images/backgrounds/github-background-rainbow-black.png" data-background-repeat="repeat"><h1>Q&A</h1></section>
+
+			<section data-background="images/backgrounds/github-background-rainbow-black.png" data-background-repeat="repeat"><h1>Demo</h1></section>
+
+			<section data-background="images/backgrounds/github-background-rainbow-black.png" data-background-repeat="repeat"><h1>THE END</h1></section>
 		</div>
 	</div>
 
@@ -54,6 +64,7 @@
 		// - https://revealjs.com/initialization/
 		// - https://revealjs.com/config/
 		Reveal.initialize({
+			
 			hash: true,
 			slideNumber: 'c/t', 
 			transition: 'none',
