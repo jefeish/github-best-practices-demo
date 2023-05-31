@@ -2,7 +2,7 @@
 
 ## This is a Template Repository for GitHub pages using [Reveal JS](https://revealjs.com)
 
-## Demo: [GitHub Pages](https://jefeish.github.io/github-pages-slides/)
+## Demo: [GitHub Pages](https://jefeish.github.io/github-best-practices-demo/)
 
 ## Run Development Mode (local)
 
