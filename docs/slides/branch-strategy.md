@@ -5,7 +5,7 @@
 
 ## [Git Flow]()
 
-- A legacy Git workflow
+- A legacy Git workflow branching model
 - Uses an extra **Development** branch as Base for **Feature** branches
 - Maintains long lived feature branches
 

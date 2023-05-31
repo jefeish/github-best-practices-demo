@@ -1,12 +1,27 @@
 ## Repo Policies
 <br>
-<div style="font-size: 36px; text-align: center; width: 60%; margin: 0% 20% 0% 20%;">
-<img height="200px" src="images/octa-astronaut.png">
-</div>
-<br>
+
 <div style="font-size: 36px; text-align: justify; width: 60%; margin: 0% 20% 0% 20%;">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+[Enforce Repo policies](https://docs.github.com/en/enterprise-cloud@latest/admin/policies/enforcing-policies-for-your-enterprise/enforcing-repository-management-policies-in-your-enterprise) to control how members of your enterprise on GitHub Enterprise Cloud manage repositories.
+
+<div style="font-size: 36px; text-align: justify; width: 60%; margin: 0% 20% 0% 20%;">
+
+- base repository permissions
+
+- repository creation
+
+- forking private or internal repositories
+
+- inviting outside collaborators to repositories
+
+- the default branch name
+
+- changes to repository visibility
+
+- repository deletion and transfer
+
+- deleting issues
+
+</div>
 </div>

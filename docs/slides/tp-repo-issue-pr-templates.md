@@ -4,31 +4,32 @@
 <div>
 <div style="text-align: justify; font-size: 36px; float: left; width: 28%; padding: 10px 50px 10px 50px;">
 
-### Repository
+### <img height="100px" style="margin: 0px 30px 0px 0px" src="images/private-repo.png"> Repository
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Repository templates define the structure and content of a Repository but do not cover the Repo configuration.
+
+<img src="images/repo-temp-conf.png">
+
+
 </div>
 <div style="text-align: justify; font-size: 36px; float: left; width: 28%; padding: 10px 50px 10px 50px;">
 
-### Issue
+### <img height="100px" style="margin: 0px 30px 0px 0px;" src="images/issue.png"> Issue
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Templates and forms to create a standardized collaboration.
+
+Issue templates come in two flavors
+- Markdown files. Templates with no validation
+
+- Yaml files. Forms with conditions & validation
+
+Stored: **`.github/ISSUE_TEMPLATE`**
+
 </div>
 <div style="text-align: justify; font-size: 36px; float: left; width: 28%; padding: 10px 50px 10px 50px;">
 
-### Pull Request
+### <img height="100px" style="margin: 0px 30px 0px 0px" src="images/pull-request.png"> Pull Request
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-magna
-aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur
-sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Pull Request template content will automatically be added to the PR's body when a collaborator opens a PR.
 </div>
 </div>
