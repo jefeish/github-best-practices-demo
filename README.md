@@ -5,7 +5,8 @@
 ## Demo: [GitHub Pages](https://jefeish.github.io/github-best-practices-demo/)
 
 ## Run Development Mode (local)
- 
+ # Run it local
+---
 ---
 
 ```bash
