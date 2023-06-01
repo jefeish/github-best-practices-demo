@@ -15,13 +15,13 @@
 
 <div style="text-align: justify; font-size: 36px; float: left; width: 44%; padding: 10px 50px 10px 50px;">
 
-## Trust is given, safety is ensured !
-Platform & automation control risk
+### Trust is given, safety is ensured !
+Platform & automation control the risk
 </div>
 
-<div style="text-align: justify; font-size: 36px; float: left; width: 44%; margin-left: 10px; padding: 10px 50px 10px 50px;">
+<div style="text-align: justify; font-size: 36px; float: left; width: 44%; margin-left: 10px; padding: 10px 50px 10px 10px;">
 
-## You are entitled to act !
+### You are entitled to act !
 Contribute and collaborate from day one
 
 </div>

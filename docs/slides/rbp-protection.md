@@ -11,7 +11,7 @@
 
 ### [Branch Protection](https://docs.github.com/en/enterprise-cloud@latest/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches)
 
- - Control how people can interact with branches in your repository
+- Control how people can interact with branches in your repository
 
 <br><br>
 
@@ -27,10 +27,11 @@
 <div>
 <div style="text-align: justify; font-size: 36px; float: left; width: 44%; padding: 10px 50px 10px 50px;">
 
-### [Repo Size Limits]()
+### [.gitignore](https://docs.github.com/en/enterprise-cloud@latest/get-started/getting-started-with-git/ignoring-files)
 
-- Size limits of files you can track in regular Git repositories
-<br><br><br>
+- Configure Git to ignore files you don't want to check in to GitHub Enterprise Cloud
+
+<br><br>
 
 ### [Push Limits](https://docs.github.com/en/enterprise-cloud@latest/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/managing-the-push-policy-for-your-repository)
 

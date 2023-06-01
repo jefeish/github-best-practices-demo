@@ -1,24 +1,31 @@
-## Tips & Tricks
+## GitHub Tips & Tricks
 
+<br>
 <div>
 <div style="text-align: justify; font-size: 36px; float: left; width: 28%; padding: 10px 50px 10px 50px;">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+### [Keyboard Shortcuts](https://docs.github.com/en/enterprise-cloud@latest/get-started/using-github/keyboard-shortcuts)
+
+Nearly every page on GitHub has a keyboard shortcut to perform actions faster.
+
+Typing '?' on GitHub brings up a dialog box that lists the keyboard shortcuts available for that page.
+
 </div>
 <div style="text-align: justify; font-size: 36px; float: left; width: 28%; padding: 10px 50px 10px 50px;">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+### [**`/`** Commands](https://docs.github.com/en/enterprise-cloud@latest/issues/tracking-your-work-with-issues/about-slash-commands)
+
+Use available `'/'` commands or [create](https://docs.github.com/en/early-access/github/save-time-with-slash-commands/syntax-for-user-defined-slash-commands) your own command in your Repo (.github/commands/\<command\>.yml)
 </div>
 <div style="text-align: justify; font-size: 36px; float: left; width: 28%; padding: 10px 50px 10px 50px;">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-magna
-aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur
-sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+### [Saved replies](https://docs.github.com/en/enterprise-cloud@latest/get-started/writing-on-github/working-with-saved-replies/using-saved-replies)
+
+Re-usable text snippets that you can use throughout GitHub comment fields
+
 </div>
+<br><br>
+
+<img src="images/issue-command.png">
+<br><br>
 </div>

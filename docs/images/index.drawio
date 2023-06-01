@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="iqNBcv5D5UAEnluReGte" name="Page-1">
-        <mxGraphModel dx="1096" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+        <mxGraphModel dx="641" dy="1101" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -56,8 +56,8 @@
                 <mxCell id="KxlWeBCbH4CNowEoGFHw-24" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fillColor=#CCCCCC;strokeColor=#4D4D4D;" parent="1" vertex="1">
                     <mxGeometry x="508.99" y="227.39000000000001" width="20" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="KxlWeBCbH4CNowEoGFHw-29" value="Default Files" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;rotation=315;fontColor=#B3B3B3;fontSize=24;" parent="1" vertex="1">
-                    <mxGeometry x="650" y="137.45" width="160.93" height="20" as="geometry"/>
+                <mxCell id="KxlWeBCbH4CNowEoGFHw-29" value="Community Health Files" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;rotation=315;fontColor=#B3B3B3;fontSize=24;" parent="1" vertex="1">
+                    <mxGeometry x="634.03" y="98.89" width="270" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="KxlWeBCbH4CNowEoGFHw-30" value="Repo, Issues &amp;amp; PR's" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;rotation=315;fontColor=#B3B3B3;fontSize=24;" parent="1" vertex="1">
                     <mxGeometry x="485.79" y="110.07" width="241.15" height="20" as="geometry"/>

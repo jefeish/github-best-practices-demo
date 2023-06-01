@@ -7,22 +7,21 @@
 <div>
 <div style="text-align: justify; font-size: 36px; float: left; width: 28%; padding: 10px 50px 10px 50px;">
 
-### Auto-Links
+### [Auto-Links](https://docs.github.com/en/enterprise-cloud@latest/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/configuring-autolinks-to-reference-external-resources)
 
-Add [autolinks](https://docs.github.com/en/enterprise-cloud@latest/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/configuring-autolinks-to-reference-external-resources) to external resources like JIRA issues and Zendesk tickets to help streamline your workflow.
+Add autolinks to external resources like JIRA issues and Zendesk tickets to help streamline your workflow.
 
-<img src="images/autolink-issue.png">
 </div>
 <div style="text-align: justify; font-size: 36px; float: left; width: 28%; padding: 10px 50px 10px 50px;">
 
-### Apps
+### [Apps](https://docs.github.com/en/enterprise-cloud@latest/apps)
 
 Integrate with GitHub via Event-Hooks and the GitHub API
 
 </div>
 <div style="text-align: justify; font-size: 36px; float: left; width: 28%; padding: 10px 50px 10px 50px;">
 
-### Actions
+### [Actions](https://docs.github.com/en/enterprise-cloud@latest/actions)
 
 Define Action-Workflows that integrate with your internal process and orchestration
 <br><br><br><br><br><br><br><br><br><br>
