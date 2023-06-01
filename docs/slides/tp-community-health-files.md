@@ -11,7 +11,7 @@
 |[SUPPORT.md]()|Direct people to specific support resources|root, docs/, or .github/|
 |[CODE_OF_CONDUCT.md](https://docs.github.com/en/enterprise-cloud@latest/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project)|Define standards for how to engage|root, docs/, or .github/|
 |[CONTRIBUTING](https://docs.github.com/en/enterprise-cloud@latest/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)|Communicate how people should contribute|root, docs/, or .github/|
-|[LICENSE.md](https://docs.github.com/en/enterprise-cloud@latest/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)|Define the License model for your project|root|
+|[LICENSE](https://docs.github.com/en/enterprise-cloud@latest/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)|Define the License model for your project|root|
 ...
 </div>
 
