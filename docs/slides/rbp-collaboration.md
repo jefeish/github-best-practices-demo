@@ -6,7 +6,7 @@
 
 <div style="text-align: justify; font-size: 36px; float: left; width: 28%; padding: 10px 50px 10px 50px;">
 
-## Issues
+### Issues
 
 - A central hub for communication and collaboration among team members
 
@@ -19,7 +19,7 @@
 </div>
 <div style="text-align: justify; font-size: 36px; float: left; width: 28%; padding: 10px 50px 10px 50px;">
 
-## Pull Requests
+### Pull Requests
 
 - Write useful commit messages !
 
@@ -37,7 +37,7 @@
 </div>
 <div style="text-align: justify; font-size: 36px; float: left; width: 28%; padding: 10px 50px 10px 50px;">
 
-## Branch Management
+### Branch Management
 
 - [Auto Merge Branches](https://docs.github.com/en/enterprise-cloud@latest/repositories/configuring-branches-and-merges-in-your-repository/configuring-pull-request-merges/managing-auto-merge-for-pull-requests-in-your-repository), when all checks pass
 

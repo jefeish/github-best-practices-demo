@@ -5,7 +5,7 @@
 <div>
 <div style="text-align: justify; font-size: 36px; float: left; width: 28%; padding: 10px 50px 10px 50px; border: 0px dashed blue;">
 
-## Reporting
+### Reporting
 
 - Create a [Policy](https://docs.github.com/en/enterprise-cloud@latest/code-security/getting-started/securing-your-repository#setting-a-security-policy) file.
 
@@ -14,7 +14,7 @@
 </div>
 <div style="text-align: justify; font-size: 36px; float: left; width: 28%; padding: 10px 50px 10px 50px; border: 0px dashed blue;">
 
-## Vulnerability Alerts
+### Vulnerability Alerts
 
 - Enable [Dependabot](https://docs.github.com/en/enterprise-cloud@latest/code-security/dependabot) alerts ([source](https://github.com/dependabot))
 
@@ -26,7 +26,7 @@
 </div>
 <div style="text-align: justify; font-size: 36px; float: left; width: 28%; padding: 10px 50px 10px 50px; border: 0px dashed blue;">
 
-## Secrets & Keys
+### Secrets & Keys
 
 - Use [Encrypted Secrets](https://docs.github.com/en/enterprise-cloud@latest/actions/security-guides/encrypted-secrets) for Actions.
 
