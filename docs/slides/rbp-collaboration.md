@@ -21,6 +21,8 @@
 
 ## Pull Requests
 
+- Write useful commit messages !
+
 - Draft Pull Requests
 
 - Mergable Pull Requests
