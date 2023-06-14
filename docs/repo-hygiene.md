@@ -1,7 +1,7 @@
 # GitHub Repository Hygiene Recommendations
 ### (Repo-Hygiene: Keep a clean Repository clean !)
 
-![draft](images/Draft.png)
+![draft](images/draft.png)
 
 A TL;DR doc on GitHub recommended Repository Hygiene and its indvidual components.
 
