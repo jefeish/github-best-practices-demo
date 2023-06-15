@@ -10,7 +10,7 @@ There are multiple ways to look at Repository Hygiene and we do not claim to hav
 
 ## :bulb: Keep a clean Repository clean = Repo-Hygiene!
 
- The task to get a Repository in to "clean" state is a pre-requirement. 
+ The task to get a Repository in to a "clean" state is a pre-requirement. 
  The Repository-Hygiene process goal is to maintain a clean environment.
 
 ### The scope of **Repo-Hygiene** for this document
