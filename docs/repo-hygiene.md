@@ -2,7 +2,7 @@
 
 A document on GitHub recommended Repository Hygiene, what do we considered part of Repo-Hygiene and what should you use to maintain it. 
 
-There are multiple ways to looks at Repository Hygiene and we do not claim to have the "one size fits all" solution, it depends on what you consider your "hygiene" priorities, but we do want to point out some very important (useful) areas that can help you when you need to decide how to keep things clean.
+There are multiple ways to look at Repository Hygiene and we do not claim to have the "one size fits all" solution, it depends on what you consider your "hygiene" priorities, but we do want to point out some very important (useful) areas that can help you when you need to decide how to keep things clean.
 
 :warning: We purposely don't go too deep in to the 'how' of the Repo-Hygiene, since the implementation can heavily depend on individual company standards. 
 
