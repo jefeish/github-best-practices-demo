@@ -1,36 +1,27 @@
-![draft](images/draft.png)
-
 # GitHub Repository Hygiene Recommendations :sweat_drops:
 
-**:bulb: Repo-Hygiene: Keep a clean Repository clean !**
+A document on GitHub recommended Repository Hygiene, what do we considered part of Repo-Hygiene and what should you use to maintain it.
 
-A document on GitHub recommended Repository Hygiene and its indvidual components.
+:warning: We purposely don't go too deep in to the 'how' of the Repo-Hygiene, since the implementation can heavily depend on individual company standards. 
 
+---
 
+## :bulb: Keep a clean Repository clean = Repo-Hygiene!
+
+ The task to get a Repository in to "clean" state is a pre-requirement. 
+ The Repository-Hygiene process goal is to maintain a clean environment.
 
 ### The scope of **Repo-Hygiene** for this document
 
   ![hygiene](images/repo-hygiene.png)
   
-  |Security|Protection|Compliance|
+  |Security|Protection|Standards|
   |---|---|---|
-  |Ensure that no secrets and <br>no vulnerabilities get committed|Enforce collaboration policies|Maintain a clean Repository|
-
-Based on these components lets consider that we start with a clean Repository, 
-- no secrets or vulnerable information stored in the Repo,
-- good collaboration templates/policies are in place and
-- some measures to maintain the Hygiene are setup.
-
+  |Ensure that no secrets and <br>no vulnerabilities get committed|Enforce collaboration policies|Compliance rules to maintain a clean Repository|
 
 ---
 
-## Templates + Policies = Repo-Hygiene
+## :bulb: Templates + Policies + Standards = Repo-Hygiene
 
-|Security|Protection|Compliance|
-|---|---|---|
-|Dependabot|Teams|Templates|
-|Code-Scanning|Branch-Protection|Size|
-|Secret Scanning|Repo-Policies|Documentation|
-||.gitignore||
 
 
