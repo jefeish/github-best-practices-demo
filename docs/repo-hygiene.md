@@ -27,19 +27,19 @@ There are multiple ways to looks at Repository Hygiene and we do not claim to ha
 
 
 
-||Checks|Description|Hygiene Task|
+||Checks|Description|Hygiene Task*|
 |---|---|---|---|
 |**Security**||||
-||Dependabot Alerts|Monitor vulnerabilities in dependencies used in your project and keep your dependencies up-to-date|GitHub Platform feature / User configurable|
-||Code Scanning||GitHub Platform feature / User configurable|
-||Secret Scanning||GitHub Platform feature / User configurable|
-||Secret Push Prevention||GitHub Platform feature / User configurable|
+||Dependabot Alerts (GHAS)|Monitor vulnerabilities in dependencies used in your project and keep your dependencies up-to-date|GitHub Platform feature / User configurable|
+||Code Scanning (GHAS)|Use code scanning to find security vulnerabilities and errors in the code for your project|GitHub Platform feature / User configurable|
+||Secret Scanning (GHAS)|Scanning repositories for known types of secrets|GitHub Platform feature / Admin configurable|
+||Secret Push Prevention (GHAS)|Use secret scanning to prevent supported secrets from being pushed into your repository|GitHub Platform feature / Admin configurable|
 |**Protection**||||
-||Teams|Repository access permissions|GitHub Platform managed|
+||Teams|Repository access permissions|GitHub Platform managed / Admin configurable|
 ||Branch Protection|Control how people can interact with branches in your repository|GitHub Platform feature / Admin configurable|
-||Branch Limits|Overall number of Branchces in a Repository|GitHub App/Action managed|
-||Stale Branch Limits|A Branch with no activity over the defined period of time|GitHub App/Action managed|
-||.gitignore|Prevent the push of specific files at the GIT level|GitHub App/Action managed|
+||Branch Limits|Limit the overall number of Branchces in a Repository|GitHub App/Action managed|
+||Stale Branch Limits|Limit the number of Branches with no activity over the defined period of time|GitHub App/Action managed|
+||.gitignore|Prevent the push of specific files at the GIT level|GitHub App/Action managed / User configurable|
 ||Repository Policies||GitHub Platform managed|
 |||||
 |**Standards**||||
@@ -48,4 +48,18 @@ There are multiple ways to looks at Repository Hygiene and we do not claim to ha
 ||Default Community Health Files||PR check for health files|
 |||||
 
+
+\* How to set it up and how to maintain it for Repo-Hygiene
+
+
+## Repository Hygiene and Trust-Level
+
+In GitHub Organization owners have the same control over a Repository as the Repo owners or Repo adminstrators. Many of the policy features show here allow for modifications on an adminstrator level.
+If you want to enforce Repo-Hygiene standards even for that access level, you would need to use Apps or Actions to control this.
+Keep in mind that using GitHub WebHook events are reactionary and do not prevent the intial push to a Repository.
+The process here is,
+
+- Detect
+- Report
+- Correct
 
