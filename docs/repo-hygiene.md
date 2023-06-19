@@ -4,8 +4,10 @@
 
 A document on GitHub recommended Repository Hygiene, what we considered part of Repo-Hygiene, and how to maintain it. 
 
-There are multiple ways to look at Repository Hygiene and we do not claim to have the "one size fits all" solution, it depends on what you consider your "hygiene" priorities, but we do want to point out some very important (useful) areas that can help you when you need to decide how to keep things clean.
+There are multiple ways to look at Repository Hygiene and we do not claim to have the "one size fits all" solution.
+What good Repository hygiene is to you, depends on what your priorities are. What we can do in this doc is to point out some very important (useful) areas that can help you decide how to keep things clean.
 
+>Note:  Good Repo-hygiene does not always guarantee good Repo-health but it does put you on the right track. 😷
 ---
 
 ## WHY ? 
@@ -16,14 +18,15 @@ If your Repository performs well on the GitHub platform and the owners of the Re
 
 - The quick answer are:
   - Any Repository that is "clean" today might not be so after the next commit.
-  - A clean Repository is fundamental for good collaboration!
+  - A clean (healthy) Repository is fundamental for good collaboration!
 
-There are a couple of reaosons beyond just platform performance, why we recommend a good Repository Hygiene process. We grouped them in these three categories.
+There are a couple of reaosons, beyond just platform performance, why we recommend a good Repository Hygiene process. We grouped them in these three categories.
 
   |Security|Protection|Standards|
   |---|---|---|
   |Ensure that no secrets and <br>no vulnerabilities get committed|Enforce collaboration policies|Compliance rules to maintain a clean Repository and<br> ensure good collaboration|
 
+GitHub highly values collaboration, providing a clean Repository enables others to participate and contribute, with without too much of a "learning curve" or the danger of "messing things up".
  > Note: The task to get a Repository in to a "clean" state is a pre-requirement. The Repository-Hygiene process goal is to maintain a clean environment.
 
 ---
@@ -63,6 +66,7 @@ There are a couple of reaosons beyond just platform performance, why we recommen
 ||Issue Templates|Templates and forms to create standardized collaboration|PR check for template files|
 ||Pull Request Templates|Standardize Pull Request description content|PR check for template files|
 ||Default Community Health Files||PR check for health files|
+||Documentation ! |To Explain - To Share - To Remember<br><br>Needs to be:<br>- Accurate<br>- Easy to understand<br>- NOT irrelevant|GitHub Templates / User managed|
 |||||
 
 
