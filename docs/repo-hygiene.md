@@ -1,31 +1,48 @@
 # GitHub Repository Hygiene Recommendations :sweat_drops:
 
-A document on GitHub recommended Repository Hygiene, what do we considered part of Repo-Hygiene and what should you use to maintain it. 
+**WHY**, **WHAT**, and **HOW** of Repository Hygiene.
+
+A document on GitHub recommended Repository Hygiene, what we considered part of Repo-Hygiene, and how to maintain it. 
 
 There are multiple ways to look at Repository Hygiene and we do not claim to have the "one size fits all" solution, it depends on what you consider your "hygiene" priorities, but we do want to point out some very important (useful) areas that can help you when you need to decide how to keep things clean.
 
-:warning: We purposely don't go too deep in to the 'how' of the Repo-Hygiene, since the implementation can heavily depend on individual company standards. 
+---
+
+## WHY ? 
+
+### :bulb: Keep a clean Repository clean = Repo-Hygiene!
+
+If your Repository performs well on the GitHub platform and the owners of the Repository don't really complain, why do we need to concern ourselfs with Repository Hygiene? 
+
+- The quick answer are:
+  - Any Repository that is "clean" today might not be so after the next commit.
+  - A clean Repository is fundamental for good collaboration!
+
+There are a couple of reaosons beyond just platform performance, why we recommend a good Repository Hygiene process. We grouped them in these three categories.
+
+  |Security|Protection|Standards|
+  |---|---|---|
+  |Ensure that no secrets and <br>no vulnerabilities get committed|Enforce collaboration policies|Compliance rules to maintain a clean Repository and<br> ensure good collaboration|
+
+ > Note: The task to get a Repository in to a "clean" state is a pre-requirement. The Repository-Hygiene process goal is to maintain a clean environment.
 
 ---
 
-## :bulb: Keep a clean Repository clean = Repo-Hygiene!
+## WHAT ? 
 
- The task to get a Repository in to a "clean" state is a pre-requirement. 
- The Repository-Hygiene process goal is to maintain a clean environment.
-
+... 
+ 
 ### The scope of **Repo-Hygiene** for this document
 
   ![hygiene](images/repo-hygiene.png)
-  
-  |Security|Protection|Standards|
-  |---|---|---|
-  |Ensure that no secrets and <br>no vulnerabilities get committed|Enforce collaboration policies|Compliance rules to maintain a clean Repository|
 
 ---
 
-## :bulb: Templates + Policies + Standards = Repo-Hygiene
+## HOW ?
 
+>Note: :warning: We purposely don't go too deep into the **'HOW'** of the Repo-Hygiene, since the implementation can heavily depend on individual company standards. 
 
+### :bulb: Templates + Policies + Standards = Repo-Hygiene
 
 ||Checks|Description|Hygiene Task*|
 |---|---|---|---|
@@ -51,15 +68,14 @@ There are multiple ways to look at Repository Hygiene and we do not claim to hav
 
 \* How to set it up and how to maintain it for Repo-Hygiene
 
+### Repository Hygiene and Trust-Level
 
-## Repository Hygiene and Trust-Level
-
-In GitHub Organization owners have the same control over a Repository as the Repo owners or Repo adminstrators. Many of the policy features shown here allow for modifications on an adminstrator level.
+In a GitHub Organization, owners have the same control over a Repository as the Repository owners or adminstrators. Many of the policy features shown here allow for modifications on an adminstrator level.
 If you want to enforce Repo-Hygiene standards even for that access level, you would need to use Apps or Actions to control this.
-Keep in mind that using GitHub WebHook events are reactionary and do not prevent the intial push to a Repository.
-The process here is,
+Keep in mind that GitHub WebHook events are reactionary and do not prevent the intial push to a Repository.
+The general process is,
 
-- Detect
-- Report
-- Correct
+  - Detect
+  - Report
+  - Correct
 
