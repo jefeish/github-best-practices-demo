@@ -2,7 +2,7 @@
 
 The **WHY**, **WHAT**, and **HOW** of Repository Hygiene.
 
-A document on GitHub recommended Repository Hygiene, what we considered part of Repo-Hygiene, and how to maintain it. 
+A GitHub recommendation on what should be considered part of Repo-Hygiene, and how to maintain it. 
 
 There are multiple ways to look at Repository Hygiene and we do not claim to have the "one size fits all" solution.
 What good Repository hygiene is to you, depends on what your priorities are. What we can do in this doc is to point out some very important (useful) areas that can help you decide how to keep things clean.
