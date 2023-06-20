@@ -14,8 +14,9 @@ What good Repository hygiene is to you, depends on what your priorities are. Wha
 
 ### :bulb: Keep a clean Repository clean = Repo-Hygiene!
 
-Even if your Repository appears to perform well on the GitHub platform and the owners don't currently voice any complaints, it is still crucial to prioritize Repository Hygiene. Here's why:
+Even if your Repository appears to perform well on the GitHub platform and the owners don't currently voice any complaints, it is still crucial to prioritize Repository Hygiene. 
 
+Here's why:
   - Any Repository that is "clean" today might not be so after the next commit.
   - A clean (healthy) Repository is fundamental for good collaboration!
 
@@ -25,7 +26,7 @@ There are several compelling reasons, beyond platform performance, that highligh
   |---|---|---|
   |Ensure that no secrets and <br>no vulnerabilities get committed|Enforce collaboration policies|Compliance rules to maintain a clean Repository and<br> ensure good collaboration|
 
-GitHub places great importance on collaboration, a well-organized repository encourages easy participation and contribution, while minimizing the learning curve and potential risks of errors.
+GitHub places great importance on collaboration, a well-organized repository encourages easy participation and contribution, while minimizing the learning curve and reducing potential issues.
  > Note: The task to get a Repository in to a "clean" state is a pre-requirement. The Repository-Hygiene process goal is to maintain a clean environment.
 
 ---
