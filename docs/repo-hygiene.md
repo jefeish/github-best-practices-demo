@@ -1,6 +1,6 @@
 # GitHub Repository Hygiene Recommendations :sweat_drops:
 
-**WHY**, **WHAT**, and **HOW** of Repository Hygiene.
+The **WHY**, **WHAT**, and **HOW** of Repository Hygiene.
 
 A document on GitHub recommended Repository Hygiene, what we considered part of Repo-Hygiene, and how to maintain it. 
 
