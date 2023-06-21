@@ -39,6 +39,8 @@ The goal is to implement measures that prevent the inclusion of any sensitive in
 
   ![hygiene](images/repo-hygiene.png)
 
+The definition of the **Maintainer** determines the available implementation options for the specific items in the Repository-Hygiene area.
+
 ---
 
 ## HOW ?
