@@ -33,9 +33,9 @@ GitHub places great importance on collaboration, a well-organized repository enc
 
 ## WHAT ? 
 
-... 
+The goal is to implement measures that prevent the inclusion of any sensitive information or weaknesses in the repository, enforce policies for secure collaboration, and adhere to compliance standards to maintain a clean and collaborative environment.
  
-### The scope of **Repo-Hygiene** for this document
+### The Recommended Scope of **Repo-Hygiene**
 
   ![hygiene](images/repo-hygiene.png)
 
