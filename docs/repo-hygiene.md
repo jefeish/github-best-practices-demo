@@ -43,6 +43,16 @@ GitHub places great importance on collaboration, a well-organized repository enc
 
 ## HOW ?
 
+### Repository Hygiene and Trust-Level
+
+In GitHub a Organization owner has equivalent control over a repository as the repository owners or administrators. Several policy features showcased here enable modifications at an administrator level. However, if you wish to enforce repository hygiene standards even for this level of access, you would need to utilize Apps or Actions for control. It's important to note that GitHub WebHook events are reactionary and do not prevent the initial push to a repository.
+
+The general process is,
+
+  - Detect
+  - Report
+  - Correct
+
 >Note: :warning: We purposely don't go too deep into the **'HOW'** of the Repo-Hygiene, since the implementation can heavily depend on individual company standards. 
 
 ### :bulb: Templates + Policies + Standards = Repo-Hygiene
@@ -54,6 +64,7 @@ GitHub places great importance on collaboration, a well-organized repository enc
 ||Code Scanning (GHAS)|Use code scanning to find security vulnerabilities and errors in the code for your project|GitHub Platform feature / User configurable|
 ||Secret Scanning (GHAS)|Scanning repositories for known types of secrets|GitHub Platform feature / Admin configurable|
 ||Secret Push Prevention (GHAS)|Use secret scanning to prevent supported secrets from being pushed into your repository|GitHub Platform feature / Admin configurable|
+|||||
 |**Protection**||||
 ||Teams|Repository access permissions|GitHub Platform managed / Admin configurable|
 ||Branch Protection|Control how people can interact with branches in your repository|GitHub Platform feature / Admin configurable|
@@ -72,14 +83,4 @@ GitHub places great importance on collaboration, a well-organized repository enc
 
 \* How to set it up and how to maintain it for Repo-Hygiene
 
-### Repository Hygiene and Trust-Level
-
-In a GitHub Organization, owners have the same control over a Repository as the Repository owners or adminstrators. Many of the policy features shown here allow for modifications on an adminstrator level.
-If you want to enforce Repo-Hygiene standards even for that access level, you would need to use Apps or Actions to control this.
-Keep in mind that GitHub WebHook events are reactionary and do not prevent the intial push to a Repository.
-The general process is,
-
-  - Detect
-  - Report
-  - Correct
 
