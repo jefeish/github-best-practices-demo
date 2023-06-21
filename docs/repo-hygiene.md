@@ -45,7 +45,7 @@ The goal is to implement measures that prevent the inclusion of any sensitive in
 
 ### Repository Hygiene and Trust-Level
 
-In GitHub a Organization owner has equivalent control over a repository as the repository owners or administrators. Several policy features showcased here enable modifications at an administrator level. However, if you wish to enforce repository hygiene standards even for this level of access, you would need to utilize Apps or Actions for control. It's important to note that GitHub WebHook events are reactionary and do not prevent the initial push to a repository.
+In GitHub, an Organization owner has equivalent control over a repository as the repository owners or administrators. Several policy features showcased here enable modifications at an administrator level. However, if you wish to enforce repository hygiene standards even for this level of access, you would need to utilize Apps or Actions for control. It's important to note that GitHub WebHook events are reactionary and do not prevent the initial push to a repository.
 
 The general process is,
 
