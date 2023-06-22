@@ -25,8 +25,6 @@ There are multiple ways to look at Repository Hygiene and we do not claim to hav
 
 ## :bulb: Templates + Policies + Standards = Repo-Hygiene
 
-
-
 ||Checks|Description|Hygiene Task*|
 |---|---|---|---|
 |**Security**||||
