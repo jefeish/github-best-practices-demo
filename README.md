@@ -1,6 +1,6 @@
 <img src="https://github.com/jefeish/github-best-practices-demo/assets/863198/e96c07b1-5c3a-41a7-ade9-fff60a662af4" width="20%">
 
-# A GitHub Repository Best Practices Presentation
+# A GitHub *Repository Best Practices* Presentation
 
 ## Presentation: [GitHub Repository Best Practices](https://jefeish.github.io/github-best-practices-demo/)
 
