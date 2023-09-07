@@ -1,10 +1,14 @@
-# GITHUB PAGES (REVEAL JS) TEMPLATE
+<img src="https://github.com/jefeish/github-best-practices-demo/assets/863198/e96c07b1-5c3a-41a7-ade9-fff60a662af4" width="20%">
 
-## This is a Template Repository for GitHub pages using [Reveal JS](https://revealjs.com)
+# A GitHub Repository Best Practices Presentation
 
-## Demo: [GitHub Pages](https://jefeish.github.io/github-best-practices-demo/)
+## Presentation: [GitHub Repository Best Practices](https://jefeish.github.io/github-best-practices-demo/)
+
+This presentation uses GitHub pages to deliver it's content.
 
 ## Run Development Mode (local)
+
+To run the presentation slides locally, clode the Repo and follow these instructions 👇
  
 ---
 
