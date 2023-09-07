@@ -22,7 +22,11 @@ npm start
 
 http://localhost:8000/
 
-## Content Description (Pages are served from `docs/`)
+
+<details><summary><h1>Content Description Details</h1></summary>
+<p>
+
+## Pages are served from `docs/`
 
 |Files/Folders|Description|
 |---|---|
@@ -37,3 +41,8 @@ http://localhost:8000/
 ### GitHub Pages Setup Info
 
 <img width="678" alt="pages-setup" src="https://user-images.githubusercontent.com/863198/200977116-2b72f1cb-7499-452e-aa9b-3ca6f934df9f.png">
+
+
+
+</p>
+</details> 
