@@ -8,7 +8,7 @@ This presentation uses GitHub pages to deliver it's content.
 
 ## Run Development Mode (local)
 
-To run the presentation slides locally, clode the Repo and follow these instructions 👇
+To run the presentation slides locally, clone the Repo and follow these instructions 👇
  
 ---
 
